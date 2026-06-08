@@ -44,7 +44,7 @@ This is a collaborative, peer-reviewed project with the full author list below. 
 ## Access
 
 - **Paper:** https://doi.org/10.1093/database/baae001
-- **Live database:** [FILL IN: the URL where AHP DB is hosted, if a public interface exists]
+- **Live database:** https://ahp.augusta.edu/
 
 ## Citation
 
